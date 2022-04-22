@@ -1,0 +1,116 @@
+body{
+    background-color: #f6f8fa;
+    font-size: 15px;
+    font-family: 'Agane';
+    src: local('Agane 75'), local('Agane-75'),
+        url('Agan75.woff2') format('woff2'),
+        url('Agan75.woff') format('woff'),
+        url('Agan75.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    }
+
+h1{
+    color: #2d2d2d;
+    font-size: 65px;
+    margin: 42px;
+    margin-left: 261px;
+    margin-right: 260px;
+    margin-bottom: 64px;
+    }
+
+p{
+    font-size: 17px;
+    color: #9092a1;
+    line-height: 30px;
+    }
+
+p .text{
+    margin-bottom: 30px;
+}
+
+ 
+
+h2{
+    color: #2c2c2e;
+    margin: 30px;
+    margin-left: 0;
+    }
+
+a{
+    text-decoration: none;
+    color: #9092a1;
+    }
+ 
+
+.logo{
+    height: 100px; 
+    width: 150px; 
+    margin: 20px; 
+    margin-bottom: 0; 
+    margin-left: 100px;
+    margin-right: 200px;
+}
+
+.a{
+    display: flex;
+    height: 50px;
+    margin: auto auto;
+    }
+
+.a2{
+    margin: 29px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    height: 20px;
+    }
+
+.main{
+    height: 100px;
+     
+    display: flex;
+    }
+
+.maintext{
+    margin-left: 189px;
+    margin-right: 188px;
+}
+
+.main2{
+    height: 500px;
+    width: 1168px;
+    margin: 0 auto;
+    }
+
+.news{
+    display: flex;
+    }
+
+.login{
+    display: flex;
+    
+    
+    height: 20px;
+    padding: 10px;;
+    padding-bottom: 15px;
+    padding-top: 9px;
+    border-radius: 0px;
+    margin-bottom: 0;
+    
+    }
+
+.login_a{
+    padding: 45px;
+    padding-bottom: 30px;
+    padding-top: 15px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    }
+
+.img{
+    border-radius: 3px;
+    width: 750px;
+    }
+
+ 
+ 
